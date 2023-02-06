@@ -24,5 +24,5 @@ function SidebarRow({ Icon, title, onClick }: Props){
       </p>
     </div>
   );
-};
+}
 export default SidebarRow;
